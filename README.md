@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Rildo 👋
 
-<!--
-**rildo-tola/rildo-tola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 400-level Computer Engineering student at the University of Lagos.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- Web Development
+- Git & GitHub
+- C++
+
+## Projects
+
+- [Weather App](https://rildo-tola.github.io/weather-app/)
+- [Study Task Tracker](https://rildo-tola.github.io/study-task-tracker/)
+- [Personal Portfolio](https://rildo-tola.github.io/phase-1-portfolio/)
+
+## Currently Exploring
+
+- Software Development
+- Embedded Systems / IoT
+- QA / Software Testing
+- Data / Analytics
+
+## Connect
+
+- [LinkedIn](www.linkedin.com/in/abaniwonda-rildwan-210433326)
+- [Portfolio](https://rildo-tola.github.io/phase-1-portfolio/)
