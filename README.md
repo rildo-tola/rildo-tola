@@ -13,7 +13,7 @@ I'm a 400-level Computer Engineering student at the University of Lagos.
 
 - [Weather App](https://rildo-tola.github.io/weather-app/)
 - [Study Task Tracker](https://rildo-tola.github.io/study-task-tracker/)
-- [Personal Portfolio](https://rildo-tola.github.io/phase-1-portfolio/)
+- [Personal Portfolio](https://rildo-tola.github.io/Portfolio/)
 - [React Project Showcase](https://rildo-tola.github.io/react-project-showcase/)
 
 ## Currently Exploring
