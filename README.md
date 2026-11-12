@@ -26,4 +26,4 @@ I'm a 400-level Computer Engineering student at the University of Lagos.
 ## Connect
 
 - [LinkedIn](www.linkedin.com/in/abaniwonda-rildwan-210433326)
-- [Portfolio](https://rildo-tola.github.io/phase-1-portfolio/)
+- [Portfolio](https://rildo-tola.github.io/Portfolio/)
